@@ -1,4 +1,4 @@
 # Fetch
 AZAV
-uploading images using the api method
-url-Object
+uploading images using API
+
